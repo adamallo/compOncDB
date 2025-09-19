@@ -1,4 +1,4 @@
-host = 
+host = Localhost
 database = comparativeOncology
 test_database = testDataBase
-table_columns = tableColumns.txt
+table_columns = tableColumns.sql

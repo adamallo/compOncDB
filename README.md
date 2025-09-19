@@ -55,7 +55,7 @@ Any missing Go packages will be downloaded and installed when running install.sh
 	./install.sh  
 
 ### Config File  
-The config file is located in the utils directory. It contains basic connection information which will be used for all connections. This includes the host (leave blank for local host), 
+The config file is located in the utils directory. It contains basic connection information which will be used for all connections. This includes the host, 
 database name, test database name, and the path to tableColumns.txt (also located in the bin by default). The host is the only field that may need changing, depending on whether you are using 
 a local or a remote connection.  
 
