@@ -7,7 +7,7 @@ import (
 	"github.com/icwells/compOncDB/src/codbutils"
 	"github.com/icwells/compOncDB/src/dbupload"
 	"github.com/icwells/dbIO"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 	"strconv"
 	"strings"
 	"time"

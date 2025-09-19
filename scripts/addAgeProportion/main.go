@@ -8,7 +8,7 @@ import (
 	"github.com/icwells/compOncDB/src/search"
 	"github.com/icwells/dbIO"
 	"github.com/icwells/go-tools/dataframe"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 	"log"
 	"strconv"
 	"strings"

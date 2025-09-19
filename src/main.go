@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 	"github.com/icwells/compOncDB/src/codbutils"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 	"os"
 	"time"
 )

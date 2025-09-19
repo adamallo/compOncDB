@@ -11,7 +11,7 @@ import (
 	"github.com/icwells/go-tools/dataframe"
 	"github.com/icwells/go-tools/iotools"
 	"github.com/icwells/simpleset"
-	"gopkg.in/alecthomas/kingpin.v2"
+	"github.com/alecthomas/kingpin/v2"
 	"log"
 	"strconv"
 	"strings"

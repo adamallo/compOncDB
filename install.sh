@@ -15,7 +15,7 @@ installPackages () {
 	FRACTION="github.com/icwells/go-tools/fraction"
 	IOTOOLS="github.com/icwells/go-tools/iotools"
 	STRARRAY="github.com/icwells/go-tools/strarray"
-	KINGPIN="gopkg.in/alecthomas/kingpin.v2"
+	KINGPIN="github.com/alecthomas/kingpin/v2"
 	MUX="github.com/gorilla/mux"
 	SCHEMA="github.com/gorilla/schema"
 	COOKIE="github.com/gorilla/securecookie"
