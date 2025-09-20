@@ -44,6 +44,7 @@ installMain () {
 	# compOncDB 
 	echo "Installing $MAIN and its dependencies..."
 	go install ./...
+	mv $GOPATH/bin/src $GOPATH/bin/$MAIN ##I should refactor the code to solve this, but I do not want to spend the time right now
 	echo ""
 }
 
